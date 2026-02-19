@@ -1,4 +1,4 @@
-Setup Instructions :
+Setup Instructions:
 
 1. Clone the Repository
 git clone https://github.com/bhaktijain09/datachat.git
@@ -12,6 +12,7 @@ python -m venv venv
 Activate:
 Windows: venv\Scripts\activate
 Mac/Linux: source venv/bin/activate
+
 
 Option B — Using Conda:
 conda create -n datachat python=3.10 -y
@@ -51,4 +52,3 @@ streamlit run app.py
 
 
 If Streamlit is not recognized: python -m streamlit run app.py
-
