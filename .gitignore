@@ -1,6 +1,6 @@
 .env
+users.db
+pdf_chunks.pkl
+pdf_index.faiss
 __pycache__/
 *.pyc
-*.db
-*.pkl
-*.faiss
