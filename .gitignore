@@ -15,3 +15,7 @@ pdf_index.faiss
 # OS/system files
 .DS_Store
 Thumbs.db
+
+# uploaded files
+uploaded_pdfs/
+uploaded_icons/
