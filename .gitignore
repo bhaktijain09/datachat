@@ -1,6 +1,17 @@
+# Local environment variables
 .env
-users.db
-pdf_chunks.pkl
-pdf_index.faiss
+
+# Python caches
 __pycache__/
 *.pyc
+
+# Local database files
+users.db
+
+# Generated data files
+pdf_chunks.pkl
+pdf_index.faiss
+
+# OS/system files
+.DS_Store
+Thumbs.db
