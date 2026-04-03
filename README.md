@@ -6,7 +6,7 @@ cd datachat
 
 2. Create a Virtual Environment (Python 3.10 Recommended)
 
-Option A — Using venv:
+Option A - Using venv:
 python -m venv venv
 
 Activate:
