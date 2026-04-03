@@ -14,7 +14,7 @@ Windows: venv\Scripts\activate
 Mac/Linux: source venv/bin/activate
 
 
-Option B — Using Conda:
+Option B - Using Conda:
 conda create -n datachat python=3.10 -y
 conda activate datachat
 
